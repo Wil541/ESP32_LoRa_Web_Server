@@ -1,0 +1,2 @@
+# ESP32_LoRa_Web_Server
+ O Sistema de Monitoramento de Silo Bag com Comunicação LoRa é um projeto de Internet das Coisas (IoT) que visa fornecer um meio eficiente e confiável de monitorar as condições em um silo bag. Os silo bags são usados para armazenar produtos agrícolas, como grãos, sementes e cereais. É essencial garantir que as condições dentro do silo bag, como temperatura, umidade e a presença de gases indesejados, sejam mantidas dentro dos limites seguros para evitar perdas e deterioração dos produtos armazenados.
